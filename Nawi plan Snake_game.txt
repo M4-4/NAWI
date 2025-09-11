@@ -18,7 +18,7 @@ Welche Figuren werden für das Spiel gebraucht?
  Welche Fähigkeiten hat eine Figur?
 
 -S. wen S. den rand berühert oder ihren eigennen Körper ist das "game over"
--A. erscheint an zufäligen Positionen zu spiel start und wenn er gegesen wird verschwindet er und erscheint wieder an einem zuffäligem ort
+-A. erscheint an zufäligen Positionen zu spiel start und wenn er gegesen wird verschwindet er und erscheint wieder an einem zuffäligen ort
 
  Wie sieht der Hintergrund aus?
 
@@ -27,7 +27,7 @@ Welche Figuren werden für das Spiel gebraucht?
  Wie läuft ein Spielzug konkret aus?
 
 
--mann bewegt sich mit " W;A;S;D" und muss möglist schnell viele A. essen um auf eine mindest Punktzahl zu kommen mit der mann das spiel "gewinnt"
+-mann bewegt sich mit " W;A;S;D" und muss möglichst schnell viele A. essen um auf eine mindest Punktzahl zu kommen mit der mann das spiel "gewinnt"
 
  Wie werden Punkte erlangt?
 
@@ -40,4 +40,5 @@ Welche Figuren werden für das Spiel gebraucht?
 -"W" nach oben
 -"A" nach links
 -"S" nach unten
+
 -"D" nach rechts
