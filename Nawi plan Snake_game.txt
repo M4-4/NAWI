@@ -1,0 +1,43 @@
+
+Spiel 1.:
+
+Welche Figuren werden für das Spiel gebraucht?
+
+-(Spieler) Schlange [S]
+-Apfel [A]
+
+
+
+
+ Wie sehen die Figuren optisch aus?
+
+-S. zu begin ein block mit einem auge und wen sie A. isst wird sie einen block länger und die schlange ist wieß
+-A. ist ein Roter apfel   
+
+
+ Welche Fähigkeiten hat eine Figur?
+
+-S. wen S. den rand berühert oder ihren eigennen Körper ist das "game over"
+-A. erscheint an zufäligen Positionen zu spiel start und wenn er gegesen wird verschwindet er und erscheint wieder an einem zuffäligem ort
+
+ Wie sieht der Hintergrund aus?
+
+-simpler schwartzer hintergund mit einem schwartz/Grau musster
+
+ Wie läuft ein Spielzug konkret aus?
+
+
+-mann bewegt sich mit " W;A;S;D" und muss möglist schnell viele A. essen um auf eine mindest Punktzahl zu kommen mit der mann das spiel "gewinnt"
+
+ Wie werden Punkte erlangt?
+
+-Indem man A. "isst"
+
+ Wie sollen die Figuren gesteuert werden?
+
+-Mit "W;A;S;D" 
+
+-"W" nach oben
+-"A" nach links
+-"S" nach unten
+-"D" nach rechts
