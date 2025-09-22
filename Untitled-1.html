@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Bildgalerie mit Hover-Video</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="gallery">
+    <!-- Wiederhole dieses Feld für jedes Bild -->
+    <div class="card" onclick="openModal(0)">
+      <img src="bild1.jpg" alt="Bild 1">
+      <p class="desc">Kurze Beschreibung 1</p>
+      <video class="hover-video" muted loop>
+        <source src="video1.mp4" type="video/mp4">
+      </video>
+    </div>
+    <!-- Weitere Karten ... -->
+  </div>
+
+  <!-- Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <h2 id="modal-title"></h2>
+      <p id="modal-text"></p>
+      <a id="modal-link" href="#" target="_blank">Mehr erfahren</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
